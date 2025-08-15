@@ -1,0 +1,1 @@
+This project captures various aspects of a restaurant’s operations, including customer orders, menu items, pricing, sales transactions, inventory levels, staff performance, and customer feedback. It is used to track business performance, analyze popular dishes, manage supplies, improve service quality, and support decision-making for menu planning and marketing strategies.
